@@ -1,0 +1,16 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "description": "Step-by-step guide on testing the feature.",
+      "preconditions": "Ensure the feature is deployed and accessible.",
+      "steps": [
+        "Open the application.",
+        "Navigate to the feature section.",
+        "Perform actions as described.",
+        "Verify the feature behaves as expected."
+      ],
+      "expectedResult": "Feature should work according to the specified behavior."
+    }
+  ]
+}
